@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Henne" max_length="40" name="x_58872_needit_henne" type="collection">
+        <element display="true" label="Nachname" max_length="50" name="nachname" type="string"/>
+        <element default="&lt;vorname eingeben&gt;" label="Vorname" max_length="50" name="vorname" type="string"/>
+    </element>
+</database>
